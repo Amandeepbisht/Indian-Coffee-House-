@@ -1,0 +1,176 @@
+.logo{
+	background-image:url('brownie.jpg');
+	background-position:center;
+	
+	height:300px;
+	background-size:cover;
+}
+.title{
+	text-align:center;
+	position:relative;
+	top:250px;
+	color:white;
+	font-size:30px;
+	font-family:"Comic Sans MS", cursive, sans-serif;
+}
+.container{
+	margin-top:20px;
+	height:350px;
+	width:1290px;
+	margin:60px auto;
+	
+	
+}
+
+
+
+.top{
+	
+	float:left;
+	width:1288px;
+	
+}
+.left{
+	float:left;
+	width:310px;
+	text-align:center;
+	margin-left:60px;
+	/*border-bottom:1px solid black;
+	border-top:1px solid black;
+	border-left:1px solid black;*/
+	margin-top:20px;
+	margin-left:10px;
+}
+h2{
+	text-align:center;
+}
+.middle{
+	
+	float:left;
+	width:900px;
+	background-color:Khaki;
+	margin-top:20px;
+	text-align:left;
+	padding-left:20px;
+	
+}
+/*.right{
+	float:left;
+	text-align:center;
+	width:200px;
+	border-bottom:1px solid black;
+	border-top:1px solid black;
+	
+	margin-top:20px;
+	
+}*/
+.heading{
+	
+	text-align:center;
+	height:50px;
+	background-color:black;
+	color:LightSlateGray;
+	font-size:30px;
+	font-weight:760;
+	font-family:Bradley Hand, cursive;
+}
+.cold_btn,.hot_btn,.bgls{
+	float:left;
+	width:406px;
+	text-align:center;
+	margin-left:5px;
+	margin-right:5px;
+	margin-top:30px;
+	height:25px;
+	
+}
+.size,.add_espresso,.sugar,.milk,.cream{
+	margin-left:20px;
+}
+.menu_1,.menu_2,.menu_3,.menu_4{
+	margin-bottom:20px;
+}
+
+
+.order{
+	font-family:Georgis;
+	font-size:22px;
+	padding-bottom:12px;
+	font-weight:800;
+}
+._name,._size,._add_espresso,._sugar,._milk,._cream{
+	font-family:Times New Roman;
+	padding-bottom:7px;
+	text-align:left;
+}
+.remove{
+	text-align:left;
+	padding-bottom:20px;
+}
+._name{
+	font-weight:700;
+}
+.cappecino_label,.regular_coffee_label,.hot_chocolate_label{
+	font-family:Bradley Hand, cursive;
+	font-size:18px;
+}
+
+/*******bottom*******/
+.bottom{
+	
+	margin-left:500px;
+	margin-right:500px;
+	text-align:center;
+}
+.owe{
+	font-weight:800;
+	
+}
+
+.money{
+	padding-bottom:12px;
+}
+.cappecino_order:hover,.regular_coffee_order:hover,.hot_chocolate_order:hover{
+	background-color:#8FBC8F;
+}
+/**********************BAGELS************************/
+.butter,.toasted,.cream_cheese{
+	margin-left:18px;
+}
+.whole_wheat_label,.plain_label,.everything_label,.cinnamon_raisin_label{
+	font-family:Bradley Hand, cursive;
+	font-size:18px;
+}
+.price,._toasted,._cream_cheese,._butter{
+	font-family:Times New Roman;
+	padding-bottom:7px;
+	text-align:left;
+}
+.whole_wheat_order:hover,.plain_order:hover,.everything_order:hover,.cinnamon_raisin_order:hover{
+	background-color:#8FBC8F;
+}
+/**********************COLD DRINKS**************/
+._extra_shot{
+	font-family:Times New Roman;
+	padding-bottom:7px;
+	text-align:left;
+}
+.frappecino_order:hover,.iced_coffee_order:hover,.iced_capp_order:hover{
+	background-color:#8FBC8F;	
+}
+.extra_shot{
+	margin-left:18px;
+}
+.frappecino_label,.iced_coffee_label,.iced_capp_label{
+	font-family:Bradley Hand, cursive;
+	font-size:18px;
+}
+
+
+
+
+
+
+
+
+
